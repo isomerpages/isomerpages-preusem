@@ -1,0 +1,35 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/isomer-logo.svg
+
+# Hero Banner
+hero-title: Pre-University Seminar
+hero-subtitle: Hero subtitle
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+    
+key-highlights:
+  - title: Highlight A
+    description: Important highlight A is important
+    url: https://google.com
+    external: true
+  - title: Highlight B
+    description: Important highlight B is equally important
+    url: https://yahoo.com
+    external: true
+  - title: Page A
+    description: Page A is important too
+    url: /page-A/
+

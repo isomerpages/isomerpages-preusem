@@ -1,0 +1,36 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
+locations:
+  # HQ Address [REQUIRED]
+  - title:
+    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
+    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
+  # Operating Hours [OPTIONAL]
+    operating-hours:
+      - days: Mon - Thu
+        time: 8.30am - 6.00pm
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
+
+
+# Contact Us
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: +65 6222 5295
+    - line: boarch@singnet.com.sg (email)
+    # If you have an email, put (email) after the actual email
+
+  - title: Fax
+    content:
+    - line: +65 6222 4452
+
+# Image
+image-url:

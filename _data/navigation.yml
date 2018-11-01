@@ -1,0 +1,56 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About
+  url: /about/objectives/
+  sub-links:
+  - title: Objectives
+    url: /about/objectives/
+  - title: Logo
+    url: /about/logo/
+  - title: Themes
+    url: /about/themes/
+  - title: Organisers
+    url: /about/organisers/
+- title: Programme
+  url: /programme/day-0/
+  sub-links:
+  - title: Day 0
+    url: /programme/day-0/
+  - title: Day 1
+    url: /programme/day-1/
+  - title: Day 2
+    url: /programme/day-2/
+  - title: Day 3
+    url: /programme/day-3/
+  - title: Day 4
+    url: /programme/day-4/
+- title: Admin Information
+  url: /admin-information/updates/
+  sub-links:
+  - title: Updates
+    url: /admin-information/updates/
+  - title: Facilitator Allocation
+    url: /admin-information/facilitator-allocation/
+  - title: Reporting Instructions
+    url: /admin-information/reporting-instructions/
+  - title: Deadlines
+    url: /admin-information/deadlines/
+  - title: Tech Guides
+    url: /admin-information/tech-guides/
+- title: Special Project
+  url: /special-project/pre-seminar-research/
+  sub-links:
+  - title: Pre Seminar Research
+    url: /special-project/pre-seminar-research/
+  - title: Challenge
+    url: /special-project/challenge/
+  - title: Transformation Roadmap
+    url: /special-project/transformation-roadmap/
+- title: Gallery
+  url: /gallery/
+- title: Contact Us
+  url: /contact-us/

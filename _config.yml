@@ -1,0 +1,52 @@
+title: Pre University Seminar
+title-abbreviated: Pre-U Sem
+description: >- # this means to ignore newlines until "baseurl:"
+  Description
+url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+remote_theme: isomerpages/isomerpages-template
+safe: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-sitemap
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
+# Resource Room and Pagination
+paginate: 12
+
+# Homepage sections
+homepage_hero_i_want_to: false
+homepage_resources: false
+
+# Feedback Form URL
+feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+
+# FAQ URL
+faq_url: "/faq/"
+faq_url_external: false
+
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+
+
+baseurl: /isomerpages-preusem
+baseurl: /isomerpages-preusem
+collections:
+  about:
+    output: true
+  programme:
+    output: true
+  admin-information:
+    output: true
+  special-project:
+    output: true
