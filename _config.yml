@@ -2,7 +2,7 @@ title: Pre University Seminar
 title-abbreviated: Pre-U Sem
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -39,8 +39,7 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 
-baseurl: /isomerpages-preusem
-baseurl: /isomerpages-preusem
+baseurl: ""
 collections:
   about:
     output: true
