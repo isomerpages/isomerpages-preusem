@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Pre-University Seminar 2019
-hero-subtitle: Hero subtitle 2019
+hero-title: Pre-University Seminar
+hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -29,7 +29,7 @@ key-highlights:
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Bwahaha
+    description: Teeheehee
     url: /page-A/
 
