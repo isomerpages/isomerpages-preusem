@@ -21,15 +21,15 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Themes and sub themes
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Watch
+    description: I am hungry
+    url: https://www.youtube.com/watch?v=3ySbXqvEKNY
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Bwahaha
-    description: Teeheehee
+  - title: Page A
+    description: Page A is important too
     url: /page-A/
 
