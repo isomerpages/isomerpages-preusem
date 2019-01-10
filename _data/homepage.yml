@@ -12,7 +12,7 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-title: Pre-University Seminar
-hero-subtitle: Hero subtitle
+hero-subtitle: Singapore 4.9 What's next?
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -21,8 +21,8 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Watch
-    description: I am hungry
+  - title: Themes & subthemes
+    description: subthemes
     url: https://www.youtube.com/watch?v=3ySbXqvEKNY
     external: true
   - title: Highlight B
