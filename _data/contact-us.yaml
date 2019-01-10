@@ -16,7 +16,7 @@ locations:
       - days: Mon - Thu
         time: 8.30am - 6.00pm
       - days: Fri
-        time: 8.30am - 5.30pm
+        time: 8.30am - 8.31am
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
 
 
