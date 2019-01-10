@@ -15,8 +15,6 @@
     url: /about/themes/
   - title: Organisers
     url: /about/organisers/
-  - title: Test navigation 2
-    url: /about/organisers/
 - title: Programme
   url: /programme/day-0/
   sub-links:
