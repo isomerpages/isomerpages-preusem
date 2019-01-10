@@ -11,25 +11,25 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Pre-University Seminar 2019
-hero-subtitle: Singapore 4.0 What's next?
+hero-title: Pre-University Seminar
+hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
+  - text: Food Here
     url: /who-we-are/
     
 key-highlights:
-  - title: Themes and sub themes
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Watch
+    description: I am hungry
+    url: https://www.youtube.com/watch?v=3ySbXqvEKNY
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Bwahahaha
+    description: Teeheehee
     url: /page-A/
 
