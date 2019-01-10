@@ -17,13 +17,13 @@ hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
+  - text: Food here?
     url: /who-we-are/
     
 key-highlights:
-  - title: Watch
-    description: I am hungry
-    url: https://www.youtube.com/watch?v=3ySbXqvEKNY
+  - title: Highlight A
+    description: Important highlight A is important
+    url: https://google.com
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
