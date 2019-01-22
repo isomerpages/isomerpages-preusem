@@ -7,10 +7,10 @@
 #Contact Us
 
 locations:
-  # HQ Address [REQUIRED]
+  # Anglo-Chinese Junior College [REQUIRED]
   - title:
-    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
-    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
+    address: 25 Dover Close East<br>Singapore 139745
+    find-directions: https://www.google.com.sg/maps/place/Anglo+Chinese+Junior+College/@1.3031354,103.7829203,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a5b43402411:0x2cae8230aca62995!8m2!3d1.3031354!4d103.785109
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
@@ -26,13 +26,13 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    - line: +65 6775 0511
+    - line: acjc@preusem.edu.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
     content:
-    - line: +65 6222 4452
+    - line: +65 6777 5479
 
 # Image
 image-url:
