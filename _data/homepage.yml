@@ -5,7 +5,7 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/cropped-preu-favicon-32x32.png
 
 # Agency logo
 agency-logo: /images/isomer-logo.svg
@@ -17,19 +17,19 @@ hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Food Here
+  - text: Click here
     url: /who-we-are/
     
 key-highlights:
   - title: Themes & subthemes
-    description: subthemes
-    url: https://www.youtube.com/watch?v=3ySbXqvEKNY
+    description: 
+    url: /about/3-themes.md
     external: true
-  - title: Panel Discussion
-    description: Access to expert resource
-    url: https://yahoo.com
+  - title: Programme
+    description: 
+    url: /1-day-0.md
     external: true
-  - title: Bwahahaha
-    description: Teeheehee
+  - title: Null
+    description: Null
     url: /page-A/
 
