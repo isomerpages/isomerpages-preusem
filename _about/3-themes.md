@@ -14,12 +14,12 @@ In his 2018 National Day Rally speech, PM Lee also spoke about ‘major shifts i
 
 It is against such a backdrop that the theme is proposed for Pre-University Seminar 2019. This theme directs the participants’ attention to the 4IR as it continues to unfold, and the role of technology in shaping the future. Participants will be challenged to consider what such a future may hold for Singapore, what we can do to leverage opportunities and mitigate the trade-offs, how we can continue to strengthen our unique identity in the world, and stay rooted to our values.
 
-Sub-Themes:
+<b>Sub-Themes:</b>
 
 Participants will explore the future of Singapore across three broad sub-themes: 
-‘Live and Learn’; 
-‘Work and Play’ and 
-‘Strengthen and Secure’. 
+<b>‘Live and Learn’</b>; 
+<b>‘Work and Play’</b> and 
+<b>‘Strengthen and Secure’</b>. 
 
 These sub-themes are divided into 22 areas of focus. In each area of focus, participant would, in their research and activities, consider the following:
 
@@ -31,9 +31,9 @@ c. how Singapore can address these challenges and/or trade-offs; and
 
 d. the shared values that can guide and anchor us as we navigate the changing world. 
 
-Areas of Focus:
+<b>Areas of Focus:</b>
 
-Sub-theme 1. ‘Live and Learn’: 
+<u>Sub-theme 1. ‘Live and Learn’:</u>
 
 i. Building a Smart Nation 
 ii. Equipping Our Young to be Future-ready 
@@ -43,9 +43,7 @@ v. Building an Inclusive Society
 vi. Enhancing Our Physical Spaces 
 vii. Playing Our Part for Environmental Sustainability 
 
-
-
-Sub-theme 2: Work and Play:
+<u>Sub-theme 2: Work and Play:</u>
 
 i. Preparing for Our Future Economy 
 ii. Embracing the Future of Work 
@@ -55,8 +53,7 @@ v. Embracing New Media
 vi. Promoting the Arts 
 vii. Enjoying Sports and Recreation 
 
-
-Sub-theme 3: Strengthen and Secure:
+<u>Sub-theme 3: Strengthen and Secure:</u>
 
 i. Making Our Country a Safer Place to Live In 
 ii. Defending Our Nation 
@@ -65,4 +62,3 @@ iv. Securing Our Food, Water and Energy Resources
 v. Strengthening Our National Identity 
 vi. Preserving Our Cultures 
 vii. Strengthening Our Community 
-
