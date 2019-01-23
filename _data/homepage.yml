@@ -24,12 +24,10 @@ key-highlights:
   - title: Themes & subthemes
     description: 
     url: /about/3-themes.md
-    external: true
   - title: Programme
     description: 
     url: /programme/1-day-0.md
-    external: true
-  - title: Null
-    description: Null
+  - title: Placeholder
+    description: Placefolder
     url: /page-A/
 
