@@ -18,8 +18,6 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Sundays and Public Holidays"
-      - days: Saturday
-        time: 10.30am - 6.00pm
 
 
 # Contact Us
