@@ -23,10 +23,10 @@ button:
 key-highlights:
   - title: Themes & subthemes
     description: 
-    url: /about/themes
+    url: /about/themes/
   - title: Programme
     description: 
-    url: /programme/day-0
+    url: /programme/day-0/
   - title: Placeholder
     description: Placefolder
     url: /page-A/
