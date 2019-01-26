@@ -7,7 +7,7 @@
 #Contact Us
 
 locations:
-  # Anglo-Chinese Junior College [REQUIRED]
+  # HQ Address [REQUIRED]
   - title:
     address: 25 Dover Close East<br>Singapore 139745
     find-directions: https://www.google.com.sg/maps/place/Anglo+Chinese+Junior+College/@1.3031354,103.7829203,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a5b43402411:0x2cae8230aca62995!8m2!3d1.3031354!4d103.785109
