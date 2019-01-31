@@ -6,6 +6,16 @@ breadcrumb: Day 4
 collection_name: programme
 ---
 
-### **What is Lorem Ipsum?**
+### **Saturday, 8 June 2019**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Time|Activity (tentative)
+----|--------------------
+0830 – 0930	| Students to check out of hostel 
+0930 – 1000	| Bus to Closing Ceremony venue
+1000 – 1300	| Set-up for exhibition <br> -	Packed lunch at 11.00am 
+1300 – 1330 |	Participants stand by at their exhibition booths
+1330 – 1500 |	Closing Ceremony <br> -	Arrival of GOH <br> -	Tour & interaction with participants <br> -	Closing Ceremony special item <br> -	Closing Remarks by GOH
+1500 – 1600	| Tea Reception
+1600 – 1700	| Survey <br> Dismantle displays & cleaning up
+1700 – 1730	| Shuttle bus to nearest MRT
+
