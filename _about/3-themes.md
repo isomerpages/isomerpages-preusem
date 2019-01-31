@@ -31,7 +31,7 @@ d. the shared values that can guide and anchor us as we navigate the changing wo
 
 #### **Areas of Focus:**
 
-##### **Sub-theme 1. ‘Live and Learn’:**
+##### **Sub-theme 1: Live and Learn:**
 
 i. Building a Smart Nation
 
