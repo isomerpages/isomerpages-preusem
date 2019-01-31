@@ -17,10 +17,7 @@ It is against such a backdrop that the theme is proposed for Pre-University Semi
 
 #### **Sub-Themes:**
 
-Participants will explore the future of Singapore across three broad sub-themes:<br>
-**‘Live and Learn’**;<br>
-**‘Work and Play’** and<br>
-**‘Strengthen and Secure’**. 
+Participants will explore the future of Singapore across three broad sub-themes: **‘Live and Learn’**; **‘Work and Play’** and **‘Strengthen and Secure’**. 
 
 These sub-themes are divided into 22 areas of focus. In each area of focus, participant would, in their research and activities, consider the following:
 
