@@ -6,6 +6,14 @@ breadcrumb: Day 1
 collection_name: programme
 ---
 
-### **What is Lorem Ipsum?**
+### **Monday, 3 June 2019**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Time|Activity (tentative)
+----|--------------------
+0730 – 0830	| Registration 
+0830 – 0900	| Briefing & ice-breaker activities
+0900 – 1100	| Project Reimagi:Nation <br> -	Team discussions for consolidation of pre-Seminar learning on Area of Focus <br> -	Final planning for Project Reimagi:Nation   
+1100 – 1200	| Lunch
+1200 – 1700	| Project Reimagi:Nation <br> -	Leave for various destinations to carry out Project Reimagi:Nation   
+1700 | Dismissal (from various destinations)
+
