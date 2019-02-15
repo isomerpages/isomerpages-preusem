@@ -6,6 +6,11 @@ breadcrumb: Organisers
 collection_name: about
 ---
 
-### **What is Lorem Ipsum?**
+### **Organisers**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+The 2018 Pre-University Seminar is jointly organised by the Ministry of Education and Anglo-Chinese Junior College.
+<p align="center">
+<a href="https://www.moe.gov.sg/"><img src="/images/moe-logo-white.jpg"></a>
+
+<a href="http://www.acjc.moe.edu.sg/"><img src="/images/ACJC%20School%20Crest_Full%20Colour.jpg" width="180"></a>
+</p>
