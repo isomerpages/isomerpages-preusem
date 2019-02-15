@@ -6,6 +6,12 @@ breadcrumb: Logo
 collection_name: about
 ---
 
-### **What is Lorem Ipsum?**
+### **Logo**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Image pending
+
+The neural network, supported by a diversity of cells necessary for the functioning of the body, represents Singapore’s digital-connectedness and human-centeredness in propelling the fourth Industrial Revolution.
+
+Every red dot within the futuristic outline of the Singapore map represents an idea, a dream, a theory that remain fluid and readily malleable in today’s volatile climate, packed with limitless possibilities.
+
+Comprising 50 dots, they symbolise 50 years of envisioning our nation’s future at Pre-University Seminar.
