@@ -10,10 +10,10 @@ collection_name: programme
 
 Time|Activity (tentative)
 ----|--------------------
-0730 – 0830	| Registration 
-0830 – 0900	| Briefing & ice-breaker activities
-0900 – 1100	| Project Reimagi:Nation <br> -	Team discussions for consolidation of pre-Seminar learning on Area of Focus <br> -	Final planning for Project Reimagi:Nation   
-1100 – 1200	| Lunch
-1200 – 1700	| Project Reimagi:Nation <br> -	Leave for various destinations to carry out Project Reimagi:Nation   
-1700 | Dismissal (from various destinations)
-
+0730 – 0815	| Registration 
+0815 – 0900	| Concurrent Briefings
+0900 - 0930 | Tea
+0930 - 1130 | Bonding Activities<br>Team Discussions<br>Final Planning for Project Reimagi:Nation 
+1130 – 1230	| Lunch
+1200 – 1700	| Project Reimagi:Nation<br>Learning Journeys    
+1700 - 1730 | Final Briefing & Dismissal (from various destinations)
