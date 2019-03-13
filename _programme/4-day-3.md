@@ -18,7 +18,7 @@ Time|Activity (tentative)
 1130 – 1230	|	Lunch reception 
 1230 – 1500	|	Team Discussion 1 - Reflection on Panel Discussions<br>Prep work for Exhibition 
 1500 – 1530 |	Tea
-1530 – 1800	| Discussion 2 - Prep work for Exhibition
+1530 – 1800	| Team Discussion 2 - Prep work for Exhibition
 1800 – 2000	|	Dinner
 2000 – 2130	| Seminar Rooms	Team Discussion 3 - Prep work for Exhibition<br>Special item for Closing Ceremony  
 2130 – 2200 |	Briefing for Day 3 Programme
