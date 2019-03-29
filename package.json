@@ -1,0 +1,22 @@
+{
+  "name": "isomerpages-preusem",
+  "version": "1.0.0",
+  "description": "## Why Markdown and YAML?",
+  "main": "travis-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isomerpages/isomerpages-preusem.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isomerpages/isomerpages-preusem/issues"
+  },
+  "homepage": "https://github.com/isomerpages/isomerpages-preusem#readme",
+  "dependencies": {
+    "@isomerpages/isomerpages-travisci-scripts": "^1.2.5"
+  }
+}
