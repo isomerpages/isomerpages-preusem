@@ -49,3 +49,5 @@ collections:
     output: true
   special-project:
     output: true
+
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules]
