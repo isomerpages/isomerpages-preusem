@@ -11,14 +11,14 @@ favicon: /images/cropped-preu-favicon-32x32.ico
 agency-logo: /images/2019-preu-logo-title-1.png
 
 # Hero Banner
-hero-title: Pre-University Seminar
-hero-subtitle: Singapore 4.0 What's next?
+# hero-title: Pre-University Seminar
+# hero-subtitle: Singapore 4.0 What's next?
 hero-banner: /images/ACJC_Web Banner-02.jpg
 
 #Call to Action Button
-button:
-  - text: Click here
-    url: /who-we-are/
+#button:
+#  - text: Click here
+#    url: /who-we-are/
     
 key-highlights:
   - title: Themes & subthemes
