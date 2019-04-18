@@ -191,7 +191,7 @@ $desktop: 960px + (2 * $gap) !default;
 	a {
 		background-color: $secondary;
 	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+	      background-color: $secondary !important;
 	    }
 	}
 }
