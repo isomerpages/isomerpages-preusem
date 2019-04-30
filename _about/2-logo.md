@@ -9,7 +9,7 @@ collection_name: about
 ### **Logo**
 
 <p align="center">
-  <a href="https://www.moe.gov.sg/"><img src="/images/Logo-02.jpg" style="width: 250px"></a>
+  <img src="/images/Logo-02.jpg">
 </p>
 
 The neural network, supported by a diversity of cells necessary for the functioning of the body, represents Singapore’s digital-connectedness and human-centeredness in propelling the fourth Industrial Revolution.
