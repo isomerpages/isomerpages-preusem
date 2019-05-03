@@ -6,7 +6,7 @@ breadcrumb: Pre-Seminar Workshop
 collection_name: gallery
 ---
 
-### **Logo**
+### **Pre-Seminar Workshop (16 Mar)**
 
 <p align="center">
   <img src="/images/pre-seminar/Pre-Seminar Workshop 1.JPG">
