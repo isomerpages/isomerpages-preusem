@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Logo
+title: Pre-Seminar Workshop (16 Mar)
 permalink: /gallery/workshop/
 breadcrumb: Pre-Seminar Workshop
 collection_name: gallery
