@@ -47,17 +47,17 @@
   - title: Transformation Roadmap
     url: /special-project/transformation-roadmap/
 - title: Gallery
-  url: /_gallery/workshop/
+  url: /gallery/workshop/
   sub-links:
   - title: Pre-Seminar Workshop
-    url: /_gallery/workshop/
+    url: /gallery/workshop/
   - title: Day 1
-    url: /_gallery/day-1/
+    url: /gallery/day-1/
   - title: Day 2
-    url: /_gallery/day-2/
+    url: /gallery/day-2/
   - title: Day 3
-    url: /_gallery/day-3/
+    url: /gallery/day-3/
   - title: Day 4
-    url: /_gallery/day-4/
+    url: /gallery/day-4/
 - title: Contact Us
   url: /contact-us/
