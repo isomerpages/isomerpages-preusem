@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Work and Play
-permalink: /about/themes/work-and-play
+permalink: /themes/work-and-play
 breadcrumb: Themes/Work-and-Play
 collection_name: themes
 ---
