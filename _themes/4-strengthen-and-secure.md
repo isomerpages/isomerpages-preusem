@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Strengthen and Secure
-permalink: /about/themes/strengthen-and-secure
+permalink: /themes/strengthen-and-secure
 breadcrumb: Themes/Strengthen-and-Secure
 collection_name: themes
 ---
