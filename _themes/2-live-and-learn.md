@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Live and Learn
-permalink: /about/themes/live-and-learn
+permalink: /themes/live-and-learn
 breadcrumb: Themes/Live-and-Learn
 collection_name: themes
 ---
