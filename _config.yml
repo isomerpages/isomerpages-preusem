@@ -28,7 +28,7 @@ homepage_hero_i_want_to: false
 homepage_resources: false
 
 # Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+feedback_form_url: "https://form.gov.sg/5bf7770220e96800105e80aa"
 
 # FAQ URL
 faq_url: "/faq/"
@@ -45,9 +45,11 @@ collections:
     output: true
   programme:
     output: true
-  admin-information:
+  themes:
     output: true
   special-project:
+    output: true
+  gallery:
     output: true
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules]

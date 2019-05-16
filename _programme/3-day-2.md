@@ -10,12 +10,11 @@ collection_name: programme
 
 Time|Activity (tentative)
 ----|--------------------
-0730 – 0930	| Registration<br>Light snack  
-0930 – 1000	| Briefing 
-1000 – 1100	|	Participants to be seated 
-1100 – 1230	|	Opening Ceremony<br>Welcome address by Principal, ACJC<br>Video - 50th Year of Pre-U Seminar<br>Speech by GOH and Q&A session
-1230 – 1400	| Lunch Reception
-1400 – 1600	| Bus to hostel<br>Check-in<br>Orientation Tour 
+0730 – 0915	| Registration<br>Light snack  
+0915 – 1100	| Participants to be seated<br>Briefing<br>Arrival of Guests
+1100 – 1230	|	Opening Ceremony<br>Welcome address by Principal, ACJC<br>Video - 50th Year of Pre-U Seminar<br>Address by GOH<br>Q&A session
+1230 – 1330	| Lunch Reception
+1330 – 1600	| Collection of luggage<br>Bus to hostel<br>Check-in<br>Proceed to Seminar Rooms
 1600 – 1800	|	Team Discussion 1 - Reflection on GOH's speech<br>Prep work for Exhibition 
 1800 – 2000	| Dinner
 2000 – 2130	|	Team Discussion 2 - Prep work for Exhibition<br>Special item for Closing Ceremony  

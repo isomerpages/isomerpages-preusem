@@ -11,12 +11,10 @@
     url: /about/objectives/
   - title: Logo
     url: /about/logo/
-  - title: Themes
-    url: /about/themes/
   - title: Organisers
     url: /about/organisers/
 - title: Programme
-  url: /programme/day-0/
+  url: /programme/workshop/
   sub-links:
   - title: 16 March 2019
     url: /programme/workshop/
@@ -28,29 +26,32 @@
     url: /programme/day-3/
   - title: 8 June 2019
     url: /programme/day-4/
-- title: Admin Information
-  url: /admin-information/updates/
+- title: Themes
+  url: /themes/
   sub-links:
-  - title: Updates
-    url: /admin-information/updates/
-  - title: Facilitator Allocation
-    url: /admin-information/facilitator-allocation/
-  - title: Reporting Instructions
-    url: /admin-information/reporting-instructions/
-  - title: Deadlines
-    url: /admin-information/deadlines/
-  - title: Tech Guides
-    url: /admin-information/tech-guides/
+  - title: Live and Learn
+    url: /themes/live-and-learn/
+  - title: Work and Play
+    url: /themes/work-and-play/
+  - title: Strengthen and Secure
+    url: /themes/strengthen-and-secure/
 - title: Special Project
-  url: /special-project/pre-seminar-research/
+  url: /special-project/project-reimagination/
   sub-links:
-  - title: Pre Seminar Research
-    url: /special-project/pre-seminar-research/
-  - title: Challenge
-    url: /special-project/challenge/
-  - title: Transformation Roadmap
-    url: /special-project/transformation-roadmap/
+  - title: Project Reimagi:Nation!
+    url: /special-project/project-reimagination/
 - title: Gallery
-  url: /gallery/
+  url: /gallery/workshop/
+  sub-links:
+  - title: Pre-Seminar Workshop
+    url: /gallery/workshop/
+  - title: Day 1
+    url: /gallery/day-1/
+  - title: Day 2
+    url: /gallery/day-2/
+  - title: Day 3
+    url: /gallery/day-3/
+  - title: Day 4
+    url: /gallery/day-4/
 - title: Contact Us
   url: /contact-us/
