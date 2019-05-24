@@ -360,6 +360,6 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.bp-hero-body {
-  padding: 12% 1.5rem;
+.bg-hero {
+  background-position: 0% 75% !important;
 }
