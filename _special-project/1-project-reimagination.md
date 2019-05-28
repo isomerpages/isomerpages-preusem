@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Pre Seminar Research
+title: Project Reimagi:Nation!
 permalink: /special-project/project-reimagination/
 breadcrumb: Project Reimagi:Nation!
 collection_name: special-project
