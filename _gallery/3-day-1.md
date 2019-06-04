@@ -32,3 +32,105 @@ collection_name: gallery
 <p align="center">
   <img src="/images/Day_1/08.jpg">
 </p>
+<p align="center">
+  <img src="/images/Day_1/09.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/10.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/11.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/12.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/13.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/14.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/15.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/16.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/17.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/18.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/19.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/20.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/21.jpeg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/22.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/23.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/24.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/25.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/26.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/27.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/28.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/29.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/30.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/31.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/32.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/33.png">
+</p>
+<p align="center">
+  <img src="/images/Day_1/34.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/35.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/36.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/37.png">
+</p>
+<p align="center">
+  <img src="/images/Day_1/38.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/39.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/40.HEIC">
+</p>
+<p align="center">
+  <img src="/images/Day_1/41.jpg">
+</p>
+<p align="center">
+  <img src="/images/Day_1/42.HEIC">
+</p>
