@@ -99,7 +99,7 @@ collection_name: gallery
   <img src="/images/Day_1/30.jpg">
 </p>
 <p align="center">
-  <img src="/images/Day_1/31.jpg">
+  <img src="/images/Day_1/31.JPG">
 </p>
 <p align="center">
   <img src="/images/Day_1/32.jpg">
