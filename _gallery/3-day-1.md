@@ -84,7 +84,7 @@ collection_name: gallery
   <img src="/images/Day_1/25.jpg">
 </p>
 <p align="center">
-  <img src="/images/Day_1/26.jpg">
+  <img src="/images/Day_1/26.JPG">
 </p>
 <p align="center">
   <img src="/images/Day_1/27.jpg">
