@@ -39,13 +39,13 @@ collection_name: gallery
   <img src="/images/Day_1/10.jpg">
 </p>
 <p align="center">
-  <img src="/images/Day_1/11.jpg">
+  <img src="/images/Day_1/11.JPG">
 </p>
 <p align="center">
   <img src="/images/Day_1/12.jpg">
 </p>
 <p align="center">
-  <img src="/images/Day_1/13.jpg">
+  <img src="/images/Day_1/13.JPG">
 </p>
 <p align="center">
   <img src="/images/Day_1/14.jpg">
