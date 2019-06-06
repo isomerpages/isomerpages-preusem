@@ -24,7 +24,7 @@ collection_name: gallery
   <img src="/images/token/5.JPG">
 </p>
 <p align="center">
-  <img src="/images/token/6.JPG" class="rotate90">
+  <img src="/images/token/6.JPG">
 </p>
 <p align="center">
   <img src="/images/token/7.JPG">
