@@ -13,6 +13,8 @@
     url: /about/logo/
   - title: Organisers
     url: /about/organisers/
+  - title: Test page
+    url: /about/test-page/
 - title: Programme
   url: /programme/workshop/
   sub-links:
