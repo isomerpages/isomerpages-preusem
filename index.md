@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Pre-U Seminar 2019
+title: Pre-U Seminar 2020
 description: 
 permalink: /
 ---
