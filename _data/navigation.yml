@@ -13,8 +13,6 @@
     url: /about/logo/
   - title: Organisers
     url: /about/organisers/
-  - title: Test page
-    url: /about/test-page/
 - title: Programme
   url: /programme/workshop/
   sub-links:
@@ -28,8 +26,6 @@
     url: /programme/day-3/
   - title: 8 June 2019
     url: /programme/day-4/
-  - title: Expert Interview
-    url: /programme/expert-interview/    
 - title: Themes
   url: /themes/
   sub-links:
@@ -39,8 +35,6 @@
     url: /themes/work-and-play/
   - title: Strengthen and Secure
     url: /themes/strengthen-and-secure/
-  - title: Active Ageing
-    url: /themes/active-ageing/    
 - title: Special Project
   url: /special-project/project-reimagination/
   sub-links:
