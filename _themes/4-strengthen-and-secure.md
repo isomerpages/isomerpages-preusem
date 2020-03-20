@@ -1,11 +1,15 @@
 ---
 layout: leftnav-page-content
-title: Strengthen and Secure
-permalink: /themes/strengthen-and-secure
-breadcrumb: Themes/Strengthen-and-Secure
+title: A Strong and Resilient Nation
+permalink: /themes/strong-resilient
+breadcrumb: Themes/Strong-Resilient
 collection_name: themes
 ---
-### **Strengthen and Secure**
+### **A Strong and Resilient Nation**
+
+This sub-theme will explore the concept of social cohesion and inclusion in multi-cultural Singapore.  It has become important for Singaporeans to revisit our social compact and adopt a shared responsibility to look out for those who are more vulnerable.  Participants will explore ways in which Singapore can become a more cohesive and inclusive society, thereby strengthening our community bonds and re-affirming our national identity.
+
+
 
 Area of Focus|Scope
 ----|--------------------
