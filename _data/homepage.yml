@@ -56,3 +56,8 @@ info-sections:
     section-more-button-url: /themes/strong-resilient
     section-image-path: images/pic3.jpg
 
+# Resources Section
+resources-title: Programmes
+resources-subtitle: Programmes
+resources-more-button: More
+resources-more-button-url: /programme/
