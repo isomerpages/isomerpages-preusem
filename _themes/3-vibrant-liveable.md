@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Work and Play
-permalink: /themes/work-and-play
-breadcrumb: Themes/Work-and-Play
+title: A Vibrant and Liveable City
+permalink: /themes/vibrant-liveable
+breadcrumb: Themes/Vibrant-Liveable
 collection_name: themes
 ---
 ### **A Vibrant and Liveable City**
