@@ -57,7 +57,7 @@ info-sections:
     section-image-path: images/pic3.jpg
 
 # Resources Section
-resources-title: Programmes
-resources-subtitle: Programmes
-resources-more-button: More
-resources-more-button-url: /programme/
+#resources-title: Programmes
+#resources-subtitle: Programmes
+#resources-more-button: More
+#resources-more-button-url: /programme/
