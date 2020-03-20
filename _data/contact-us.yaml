@@ -7,22 +7,22 @@
 #Contact Us
 
 locations:
-  # Anglo-Chinese Junior College [REQUIRED]
-  - title: Anglo-Chinese Junior College
-    address: 25 Dover Close East<br>Singapore 139745
-    find-directions: https://www.google.com.sg/maps/place/Anglo+Chinese+Junior+College/@1.3031354,103.7829203,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a5b43402411:0x2cae8230aca62995!8m2!3d1.3031354!4d103.785109
-
+  # Victoria Junior College [REQUIRED]
+  - title: Victoria Junior College
+    address: 20 Marine Vista <br>Singapore 449035
+    find-directions: https://goo.gl/maps/wxEc9vcpgNUSuSum9
+    
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6775 0511
-    - line: acjc@preusem.edu.sg (email)
+    - line: +65 6448 5011
+    - line: preuseminar@schools.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
     content:
-    - line: +65 6777 5479
+    - line: +65 6443 8337
 
 # Image
 image-url:
