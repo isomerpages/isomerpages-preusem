@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Live and Learn
-permalink: /themes/live-and-learn
-breadcrumb: Themes/Live-and-Learn
+title: A Cohesive and Inclusive Society
+permalink: /themes/cohesive-inclusive
+breadcrumb: Themes/cohesive-inclusive
 collection_name: themes
 ---
 ### **A Cohesive and Inclusive Society**
