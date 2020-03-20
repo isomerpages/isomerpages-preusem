@@ -6,7 +6,7 @@ breadcrumb: Project Design
 collection_name: special-project
 ---
 
-### **Project DeSiGn!**
+### **Project DeSiGn**
 
 The Singapore Conversations in 2013 and the current “SG Together” efforts illustrate how the government and public service recognise the importance of involving citizens and diverse stakeholders in their engagement efforts.  Public agencies are finding the need to move towards a “co” paradigm or framework where users (citizens) and providers (public agencies) are co-creating solutions, with each contributing capabilities to ideation, policy formulation and solution implementation.   As our people increasingly aspire to be involved in the co-creation of policies, the Pre-University Seminar can be a good platform to sensitise our students to a responsible and constructive process to do so.
 
