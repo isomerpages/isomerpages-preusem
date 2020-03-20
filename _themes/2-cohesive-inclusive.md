@@ -5,7 +5,9 @@ permalink: /themes/live-and-learn
 breadcrumb: Themes/Live-and-Learn
 collection_name: themes
 ---
-### **Live and Learn**
+### **A Cohesive and Inclusive Society**
+
+This sub-theme will explore the concept of social cohesion and inclusion in multi-cultural Singapore.  It has become important for Singaporeans to revisit our social compact and adopt a shared responsibility to look out for those who are more vulnerable.  Participants will explore ways in which Singapore can become a more cohesive and inclusive society, thereby strengthening our community bonds and re-affirming our national identity.
 
 Area of Focus|Scope
 ----|--------------------
