@@ -21,38 +21,38 @@ hero-banner: /images/VJC-WebBanner-01.jpg
 #    url: /who-we-are/
     
 key-highlights:
-  - title: Themes & subthemes
+  - title: Themes
     description: 
     url: /themes/
   - title: Programme
     description: 
     url: /programme/day-1/
-  - title: Project Reimagi:Nation!
+  - title: Project DeSiGn
     description:
-    url: /special-project/project-reimagination/
+    url: /special-project/project-design/
     
 # Info Sections
 info-sections:
   - section-title: 
     section-subtitle: A Cohesive and Inclusive Society
     section-description:  This sub-theme will explore the concept of social cohesion and inclusion in multi-cultural Singapore.  It has become important for Singaporeans to revisit our social compact and adopt a shared responsibility to look out for those who are more vulnerable.  Participants will explore ways in which Singapore can become a more cohesive and inclusive society, thereby strengthening our community bonds and re-affirming our national identity.
-#    section-more-button: Watch now
+    section-more-button: Explore
 #    external: true
-#    section-more-button-url: https://youtu.be/fb_khHU3oDg
+    section-more-button-url: /themes/cohesive-inclusive
 #    section-image-path: images/home-page/The Need for Speed.png
     
   - section-title: 
     section-subtitle: A Vibrant and Liveable City
     section-description: This sub-theme will explore how Singapore can continue to be a vibrant and liveable city for all.  To ensure that Singaporeans continue to enjoy a good quality of life, we must find ways to address some pressing issues.  For example, climate change is one of the greatest challenges for the world, and Singapore must find equitable and sustainable ways to tackle this problem.  As a land-scarce country, Singapore has to manage space constraints while ensuring a comfortable, pleasant, healthy and affordable living environment for all.  This sub-theme will enable participants to appreciate these issues and explore solutions for the future.
-#    section-more-button: Take our quiz
+    section-more-button: Explore
 #    external: true
-#    section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
+    section-more-button-url: /themes/vibrant-liveable
 #    section-image-path: /images/bds/bds-left-v2.jpg
     
   - section-title: 
-    section-subtitle: A strong and Resilient Nation
+    section-subtitle: A Strong and Resilient Nation
     section-description: This sub-theme will focus on the need for Singapore and Singaporeans to stay strong and resilient in the face of new developments and disruptions.  Major socioeconomic and geopolitical shifts, including the trade relations between China and the United States, pose a threat to the world’s economy, weakening the position of small countries like Singapore that are heavily reliant on trade and investment.  Technological disruptions, the growing influence of social media and nationalist politics have also led to new threats to our economy, defence and social stability.  Participants will explore how Singapore can leverage its strengths, identify and shore up its defences on various fronts, and proactively anticipate and prepare for further uncertainties and shifts.
-#    section-more-button: Learn more
-#    section-more-button-url: /get-one-on-one-assistance/digital-clinics/
+    section-more-button: Learn more
+    section-more-button-url: /themes/strong-resilient
 #    section-image-path: /images/home-page/digital-clinics-graphic.png
 
