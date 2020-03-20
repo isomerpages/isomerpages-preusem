@@ -5,7 +5,9 @@ permalink: /themes/work-and-play
 breadcrumb: Themes/Work-and-Play
 collection_name: themes
 ---
-### **Work and Play**
+### **A Vibrant and Liveable City**
+
+This sub-theme will explore how Singapore can continue to be a vibrant and liveable city for all.  To ensure that Singaporeans continue to enjoy a good quality of life, we must find ways to address some pressing issues.  For example, climate change is one of the greatest challenges for the world, and Singapore must find equitable and sustainable ways to tackle this problem.  As a land-scarce country, Singapore has to manage space constraints while ensuring a comfortable, pleasant, healthy and affordable living environment for all.  This sub-theme will enable participants to appreciate these issues and explore solutions for the future.
 
 Area of Focus|Scope
 ----|--------------------
