@@ -6,4 +6,4 @@ breadcrumb: Day 2
 collection_name: gallery
 ---
 
-### **Day 2 (6 June)**
+### **Day 2 (2 June)**
