@@ -14,7 +14,7 @@
   - title: Organisers
     url: /about/organisers/
 - title: Programme
-  url: /programme/workshop/
+  url: /programme/day-1/
   sub-links:
   - title: 1 June 2020
     url: /programme/day-1/
@@ -37,7 +37,7 @@
   - title: Project DeSiGn
     url: /special-project/project-design/
 - title: Gallery
-  url: /gallery/workshop/
+  url: /gallery/day-1/
   sub-links:
   - title: Day 1
     url: /gallery/day-1/
