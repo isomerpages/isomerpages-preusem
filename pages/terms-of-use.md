@@ -4,8 +4,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
 ### **TERMS OF USE**
 
 **Agreement – Terms**
